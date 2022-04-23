@@ -129,3 +129,4 @@ https://www.youtube.com/watch?v=abXyBG8DRPg (use captions)
 ### Class Progress
 - Shows the current class's progress as a gauge (Text is the block)
 - (Supports `Graphic Circular`, `Circular Small`)
+ 
